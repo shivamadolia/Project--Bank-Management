@@ -1,16 +1,14 @@
 /*OOPS PROJECT
- BANK MANAGMENT SYSTEM
+ BANK MANAGMENT SYSTEM IN C++
  */
 
-
-
 #include<stdio.h>
-#include<IOSTREAM.h>
-#include<iomanip.h>
+#include<iostream>
+#include<iomanip>
 #include<stdlib.h>
-#include<fstream.h>
-#include<CTYPE.H>
-#include<string.h>
+#include<fstream>
+#include<ctype.h>
+#include<string>
 using namespace std;
  int acc=0;
       int num;
