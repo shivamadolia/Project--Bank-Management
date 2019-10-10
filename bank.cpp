@@ -83,7 +83,6 @@ void account::modify()
 	cout<<"\nModify Type of Account : ";
 	cin>>type;
 	type=toupper(type);
-
 }
 
 
